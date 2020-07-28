@@ -12,3 +12,10 @@
 ### Experiences
 
 ### Contact
+
+### License
+
+Copyright © 2020, Credits: [Saiful]
+Released under the [MIT License](LICENSE).
+
+***
